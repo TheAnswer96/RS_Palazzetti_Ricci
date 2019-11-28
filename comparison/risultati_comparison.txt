@@ -1,0 +1,512 @@
+
+DB: SUPER_FIT
+------------------------------------------------------------------------------------------------------------------------
+NUM.RACCOMANDAZIONI=5;
+Percentage  0.0  reapet N.  3929  Times(  5.358555413109299 % compare with the total length )
+----------------------------------------------------
+Percentage  100.0  reapet N.  2550  Times(  3.477810207031996 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  21918  Times(  29.892801614795015 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  12684  Times(  17.299037123919152 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  12067  Times(  16.45754343853141 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  20174  Times(  27.514252202613132 % compare with the total length )
+----------------------------------------------------
+Percentage:  49.07422056135948 %
+Percentage with same rank:  20.58809088677341 %
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+NUM.RACCOMANDAZIONI=10;
+Percentage  0.0  reapet N.  734  Times(  1.0010638007692099 % compare with the total length )
+----------------------------------------------------
+Percentage  100.0  reapet N.  125  Times(  0.17048089250156842 % compare with the total length )
+----------------------------------------------------
+Percentage  70.0  reapet N.  8929  Times(  12.177791113172036 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  12424  Times(  16.94443686751589 % compare with the total length )
+----------------------------------------------------
+Percentage  10.0  reapet N.  2224  Times(  3.0331960393879056 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  4753  Times(  6.482365456479638 % compare with the total length )
+----------------------------------------------------
+Percentage  50.0  reapet N.  14505  Times(  19.782602765882 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  5183  Times(  7.0688197266850334 % compare with the total length )
+----------------------------------------------------
+Percentage  90.0  reapet N.  1481  Times(  2.0198576143585827 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  13949  Times(  19.024303756035025 % compare with the total length )
+----------------------------------------------------
+Percentage  30.0  reapet N.  9015  Times(  12.295081967213115 % compare with the total length )
+----------------------------------------------------
+Percentage:  49.18796541283653 %
+Percentage with same rank:  12.471427402416738 %
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+NUM.RACCOMANDAZIONI=15;
+Percentage  0.0  reapet N.  272  Times(  0.3709664220834129 % compare with the total length )
+----------------------------------------------------
+Percentage  33.333333333333336  reapet N.  7168  Times(  9.77605629960994 % compare with the total length )
+----------------------------------------------------
+Percentage  66.66666666666667  reapet N.  6943  Times(  9.469190693107116 % compare with the total length )
+----------------------------------------------------
+Percentage  100.0  reapet N.  18  Times(  0.024549248520225855 % compare with the total length )
+----------------------------------------------------
+Percentage  6.666666666666667  reapet N.  738  Times(  1.00651918932926 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  9775  Times(  13.33160579362265 % compare with the total length )
+----------------------------------------------------
+Percentage  73.33333333333333  reapet N.  4109  Times(  5.604047898311557 % compare with the total length )
+----------------------------------------------------
+Percentage  13.333333333333334  reapet N.  1428  Times(  1.9475737159379176 % compare with the total length )
+----------------------------------------------------
+Percentage  46.666666666666664  reapet N.  11223  Times(  15.30645645236082 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  2290  Times(  3.1232099506287336 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  2681  Times(  3.6564741823736395 % compare with the total length )
+----------------------------------------------------
+Percentage  53.333333333333336  reapet N.  11344  Times(  15.471481956302338 % compare with the total length )
+----------------------------------------------------
+Percentage  86.66666666666667  reapet N.  1115  Times(  1.5206895611139903 % compare with the total length )
+----------------------------------------------------
+Percentage  26.666666666666668  reapet N.  4487  Times(  6.1195821172363 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  9450  Times(  12.888355473118573 % compare with the total length )
+----------------------------------------------------
+Percentage  93.33333333333333  reapet N.  281  Times(  0.3832410463435258 % compare with the total length )
+----------------------------------------------------
+Percentage:  49.02994099088041 %
+Percentage with same rank:  8.956838784175735 %
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+NUM.RACCOMANDAZIONI=30;
+Percentage  0.0  reapet N.  96  Times(  0.13092932544120456 % compare with the total length )
+----------------------------------------------------
+Percentage  3.3333333333333335  reapet N.  98  Times(  0.13365701972122965 % compare with the total length )
+----------------------------------------------------
+Percentage  6.666666666666667  reapet N.  191  Times(  0.26049480374239653 % compare with the total length )
+----------------------------------------------------
+Percentage  10.0  reapet N.  232  Times(  0.316412536482911 % compare with the total length )
+----------------------------------------------------
+Percentage  13.333333333333334  reapet N.  342  Times(  0.4664357218842912 % compare with the total length )
+----------------------------------------------------
+Percentage  16.666666666666668  reapet N.  459  Times(  0.6260058372657592 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  755  Times(  1.0297045907094733 % compare with the total length )
+----------------------------------------------------
+Percentage  23.333333333333332  reapet N.  1128  Times(  1.5384195739341535 % compare with the total length )
+----------------------------------------------------
+Percentage  26.666666666666668  reapet N.  1599  Times(  2.1807915768800634 % compare with the total length )
+----------------------------------------------------
+Percentage  30.0  reapet N.  2187  Times(  2.982733695207441 % compare with the total length )
+----------------------------------------------------
+Percentage  33.333333333333336  reapet N.  3083  Times(  4.204740732658683 % compare with the total length )
+----------------------------------------------------
+Percentage  36.666666666666664  reapet N.  3715  Times(  5.066692125146614 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  4750  Times(  6.4782739150596 % compare with the total length )
+----------------------------------------------------
+Percentage  43.333333333333336  reapet N.  5507  Times(  7.510706200049098 % compare with the total length )
+----------------------------------------------------
+Percentage  46.666666666666664  reapet N.  6259  Times(  8.536319249338534 % compare with the total length )
+----------------------------------------------------
+Percentage  50.0  reapet N.  6910  Times(  9.424183737486702 % compare with the total length )
+----------------------------------------------------
+Percentage  53.333333333333336  reapet N.  6618  Times(  9.025940372603038 % compare with the total length )
+----------------------------------------------------
+Percentage  56.666666666666664  reapet N.  6352  Times(  8.6631570333597 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  5778  Times(  7.880308774992499 % compare with the total length )
+----------------------------------------------------
+Percentage  63.333333333333336  reapet N.  4701  Times(  6.411445405198985 % compare with the total length )
+----------------------------------------------------
+Percentage  66.66666666666667  reapet N.  4049  Times(  5.522217069910805 % compare with the total length )
+----------------------------------------------------
+Percentage  70.0  reapet N.  3039  Times(  4.144731458498131 % compare with the total length )
+----------------------------------------------------
+Percentage  73.33333333333333  reapet N.  2225  Times(  3.034559886527918 % compare with the total length )
+----------------------------------------------------
+Percentage  76.66666666666667  reapet N.  1495  Times(  2.0389514743187585 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  887  Times(  1.2097324131911296 % compare with the total length )
+----------------------------------------------------
+Percentage  83.33333333333333  reapet N.  437  Times(  0.5960012001854832 % compare with the total length )
+----------------------------------------------------
+Percentage  86.66666666666667  reapet N.  204  Times(  0.27822481656255965 % compare with the total length )
+----------------------------------------------------
+Percentage  90.0  reapet N.  159  Times(  0.21685169526199505 % compare with the total length )
+----------------------------------------------------
+Percentage  93.33333333333333  reapet N.  60  Times(  0.08183082840075284 % compare with the total length )
+----------------------------------------------------
+Percentage  96.66666666666667  reapet N.  7  Times(  0.009546929980087831 % compare with the total length )
+----------------------------------------------------
+Percentage:  50.93168944291391 %
+Percentage with same rank:  5.2032586854332035 %
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+NUM.RACCOMANDAZIONI=40;
+Percentage  0.0  reapet N.  15  Times(  0.02045770710018821 % compare with the total length )
+----------------------------------------------------
+Percentage  2.5  reapet N.  41  Times(  0.055917732740514446 % compare with the total length )
+----------------------------------------------------
+Percentage  5.0  reapet N.  102  Times(  0.13911240828127983 % compare with the total length )
+----------------------------------------------------
+Percentage  7.5  reapet N.  104  Times(  0.14184010256130494 % compare with the total length )
+----------------------------------------------------
+Percentage  10.0  reapet N.  153  Times(  0.20866861242191975 % compare with the total length )
+----------------------------------------------------
+Percentage  12.5  reapet N.  182  Times(  0.24822017948228361 % compare with the total length )
+----------------------------------------------------
+Percentage  15.0  reapet N.  298  Times(  0.40642644772373915 % compare with the total length )
+----------------------------------------------------
+Percentage  17.5  reapet N.  342  Times(  0.4664357218842912 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  498  Times(  0.6791958757262486 % compare with the total length )
+----------------------------------------------------
+Percentage  22.5  reapet N.  641  Times(  0.8742260167480429 % compare with the total length )
+----------------------------------------------------
+Percentage  25.0  reapet N.  878  Times(  1.1974577889310165 % compare with the total length )
+----------------------------------------------------
+Percentage  27.5  reapet N.  1088  Times(  1.4838656883336516 % compare with the total length )
+----------------------------------------------------
+Percentage  30.0  reapet N.  1424  Times(  1.9421183273778675 % compare with the total length )
+----------------------------------------------------
+Percentage  32.5  reapet N.  1926  Times(  2.6267695916641665 % compare with the total length )
+----------------------------------------------------
+Percentage  35.0  reapet N.  2427  Times(  3.3100570088104524 % compare with the total length )
+----------------------------------------------------
+Percentage  37.5  reapet N.  2871  Times(  3.9156051389760234 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  3625  Times(  4.943945882545484 % compare with the total length )
+----------------------------------------------------
+Percentage  42.5  reapet N.  4405  Times(  6.007746651755271 % compare with the total length )
+----------------------------------------------------
+Percentage  45.0  reapet N.  4569  Times(  6.231417582717329 % compare with the total length )
+----------------------------------------------------
+Percentage  47.5  reapet N.  5041  Times(  6.875153432803251 % compare with the total length )
+----------------------------------------------------
+Percentage  50.0  reapet N.  5358  Times(  7.307492976187229 % compare with the total length )
+----------------------------------------------------
+Percentage  52.5  reapet N.  5329  Times(  7.267941409126865 % compare with the total length )
+----------------------------------------------------
+Percentage  55.0  reapet N.  4973  Times(  6.782411827282398 % compare with the total length )
+----------------------------------------------------
+Percentage  57.5  reapet N.  4708  Times(  6.420992335179073 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  4261  Times(  5.811352663593464 % compare with the total length )
+----------------------------------------------------
+Percentage  62.5  reapet N.  3952  Times(  5.389923897329587 % compare with the total length )
+----------------------------------------------------
+Percentage  65.0  reapet N.  3368  Times(  4.59343716756226 % compare with the total length )
+----------------------------------------------------
+Percentage  67.5  reapet N.  2806  Times(  3.826955074875208 % compare with the total length )
+----------------------------------------------------
+Percentage  70.0  reapet N.  2482  Times(  3.3850686015111426 % compare with the total length )
+----------------------------------------------------
+Percentage  72.5  reapet N.  1944  Times(  2.651318840184392 % compare with the total length )
+----------------------------------------------------
+Percentage  75.0  reapet N.  1288  Times(  1.756635116336161 % compare with the total length )
+----------------------------------------------------
+Percentage  77.5  reapet N.  937  Times(  1.2779247701917569 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  592  Times(  0.8073975068874281 % compare with the total length )
+----------------------------------------------------
+Percentage  82.5  reapet N.  304  Times(  0.4146095305638144 % compare with the total length )
+----------------------------------------------------
+Percentage  85.0  reapet N.  142  Times(  0.19366629388178172 % compare with the total length )
+----------------------------------------------------
+Percentage  87.5  reapet N.  53  Times(  0.07228389842066502 % compare with the total length )
+----------------------------------------------------
+Percentage  90.0  reapet N.  45  Times(  0.06137312130056463 % compare with the total length )
+----------------------------------------------------
+Percentage  92.5  reapet N.  66  Times(  0.09001391124082812 % compare with the total length )
+----------------------------------------------------
+Percentage  95.0  reapet N.  54  Times(  0.07364774556067756 % compare with the total length )
+----------------------------------------------------
+Percentage  97.5  reapet N.  30  Times(  0.04091541420037642 % compare with the total length )
+----------------------------------------------------
+Percentage:  51.29742778429394 %
+Percentage with same rank:  4.068321922478928 %
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+
+DB: SUPER_FIT2
+------------------------------------------------------------------------------------------------------------------------
+NUM.RACCOMANDAZIONI=5;
+Percentage  0.0  reapet N.  2572  Times(  7.843615626238907 % compare with the total length )
+----------------------------------------------------
+Percentage  100.0  reapet N.  1402  Times(  4.275563416791193 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  9082  Times(  27.696624073678752 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  5200  Times(  15.85800981976762 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  5810  Times(  17.718276356317283 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  8725  Times(  26.607910707206244 % compare with the total length )
+----------------------------------------------------
+Percentage:  47.54902259766399 %
+Percentage with same rank:  18.065932725442956 %
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+NUM.RACCOMANDAZIONI=10;
+Percentage  0.0  reapet N.  612  Times(  1.8663657710957275 % compare with the total length )
+----------------------------------------------------
+Percentage  100.0  reapet N.  146  Times(  0.44524412186270623 % compare with the total length )
+----------------------------------------------------
+Percentage  70.0  reapet N.  4291  Times(  13.085907718581318 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  5590  Times(  17.04736055625019 % compare with the total length )
+----------------------------------------------------
+Percentage  10.0  reapet N.  1414  Times(  4.31215882406758 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  2135  Times(  6.51093287792382 % compare with the total length )
+----------------------------------------------------
+Percentage  50.0  reapet N.  5948  Times(  18.13912353999573 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  2522  Times(  7.6911347625872954 % compare with the total length )
+----------------------------------------------------
+Percentage  90.0  reapet N.  684  Times(  2.0859382147540484 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  5385  Times(  16.422189015278583 % compare with the total length )
+----------------------------------------------------
+Percentage  30.0  reapet N.  4064  Times(  12.393644597603 % compare with the total length )
+----------------------------------------------------
+Percentage:  48.12082583635754 %
+Percentage with same rank:  10.894757707907658 %
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+NUM.RACCOMANDAZIONI=15;
+Percentage  0.0  reapet N.  234  Times(  0.7136104418895428 % compare with the total length )
+----------------------------------------------------
+Percentage  33.333333333333336  reapet N.  3223  Times(  9.828916470982891 % compare with the total length )
+----------------------------------------------------
+Percentage  66.66666666666667  reapet N.  3130  Times(  9.545302064590894 % compare with the total length )
+----------------------------------------------------
+Percentage  100.0  reapet N.  11  Times(  0.03354579000335458 % compare with the total length )
+----------------------------------------------------
+Percentage  6.666666666666667  reapet N.  537  Times(  1.63764447561831 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  4009  Times(  12.225915647586229 % compare with the total length )
+----------------------------------------------------
+Percentage  73.33333333333333  reapet N.  2099  Times(  6.40114665609466 % compare with the total length )
+----------------------------------------------------
+Percentage  13.333333333333334  reapet N.  902  Times(  2.7507547802750754 % compare with the total length )
+----------------------------------------------------
+Percentage  46.666666666666664  reapet N.  4317  Times(  13.165197767680157 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  1154  Times(  3.5192583330791987 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  1418  Times(  4.324357293159708 % compare with the total length )
+----------------------------------------------------
+Percentage  53.333333333333336  reapet N.  4614  Times(  14.07093409777073 % compare with the total length )
+----------------------------------------------------
+Percentage  86.66666666666667  reapet N.  652  Times(  1.988350462017017 % compare with the total length )
+----------------------------------------------------
+Percentage  26.666666666666668  reapet N.  2226  Times(  6.7884480497697535 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  4095  Times(  12.488182733067 % compare with the total length )
+----------------------------------------------------
+Percentage  93.33333333333333  reapet N.  170  Times(  0.5184349364154799 % compare with the total length )
+----------------------------------------------------
+Percentage:  48.572677462311816 %
+Percentage with same rank:  8.05200613989611 %
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+NUM.RACCOMANDAZIONI=30;
+Percentage  0.0  reapet N.  612  Times(  1.8663657710957275 % compare with the total length )
+----------------------------------------------------
+Percentage  100.0  reapet N.  146  Times(  0.44524412186270623 % compare with the total length )
+----------------------------------------------------
+Percentage  3.3333333333333335  reapet N.  98  Times(  0.298862492757159 % compare with the total length )
+----------------------------------------------------
+Percentage  6.666666666666667  reapet N.  137  Times(  0.4177975664054161 % compare with the total length )
+----------------------------------------------------
+Percentage  10.0  reapet N.  186  Times(  0.5672288127839956 % compare with the total length )
+----------------------------------------------------
+Percentage  13.333333333333334  reapet N.  242  Times(  0.7380073800738007 % compare with the total length )
+----------------------------------------------------
+Percentage  16.666666666666668  reapet N.  350  Times(  1.0673660455612821 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  517  Times(  1.5766521301576653 % compare with the total length )
+----------------------------------------------------
+Percentage  23.333333333333332  reapet N.  645  Times(  1.9670031411057913 % compare with the total length )
+----------------------------------------------------
+Percentage  26.666666666666668  reapet N.  854  Times(  2.6043731511695283 % compare with the total length )
+----------------------------------------------------
+Percentage  30.0  reapet N.  1106  Times(  3.372876703973651 % compare with the total length )
+----------------------------------------------------
+Percentage  33.333333333333336  reapet N.  1435  Times(  4.376200786801256 % compare with the total length )
+----------------------------------------------------
+Percentage  36.666666666666664  reapet N.  1872  Times(  5.7088835351163425 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  2063  Times(  6.2913604342655 % compare with the total length )
+----------------------------------------------------
+Percentage  43.333333333333336  reapet N.  2346  Times(  7.154402122533622 % compare with the total length )
+----------------------------------------------------
+Percentage  46.666666666666664  reapet N.  2608  Times(  7.953401848068068 % compare with the total length )
+----------------------------------------------------
+Percentage  50.0  reapet N.  2580  Times(  7.868012564423165 % compare with the total length )
+----------------------------------------------------
+Percentage  53.333333333333336  reapet N.  2667  Times(  8.13332926717697 % compare with the total length )
+----------------------------------------------------
+Percentage  56.666666666666664  reapet N.  2584  Times(  7.880211033515294 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  2439  Times(  7.43801652892562 % compare with the total length )
+----------------------------------------------------
+Percentage  63.333333333333336  reapet N.  2095  Times(  6.388948187002531 % compare with the total length )
+----------------------------------------------------
+Percentage  66.66666666666667  reapet N.  1840  Times(  5.611295782379312 % compare with the total length )
+----------------------------------------------------
+Percentage  70.0  reapet N.  1392  Times(  4.245067244060871 % compare with the total length )
+----------------------------------------------------
+Percentage  73.33333333333333  reapet N.  1071  Times(  3.266140099417523 % compare with the total length )
+----------------------------------------------------
+Percentage  76.66666666666667  reapet N.  739  Times(  2.253667164770821 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  424  Times(  1.2930377237656674 % compare with the total length )
+----------------------------------------------------
+Percentage  83.33333333333333  reapet N.  224  Times(  0.6831142691592205 % compare with the total length )
+----------------------------------------------------
+Percentage  86.66666666666667  reapet N.  120  Times(  0.36595407276386815 % compare with the total length )
+----------------------------------------------------
+Percentage  90.0  reapet N.  60  Times(  0.18297703638193408 % compare with the total length )
+----------------------------------------------------
+Percentage  93.33333333333333  reapet N.  41  Times(  0.12503430819432163 % compare with the total length )
+----------------------------------------------------
+Percentage  96.66666666666667  reapet N.  3  Times(  0.009148851819096703 % compare with the total length )
+----------------------------------------------------
+Percentage:  50.02470189991156 %
+Percentage with same rank:  4.723450540290527 %
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+NUM.RACCOMANDAZIONI=40;
+Percentage  0.0  reapet N.  23  Times(  0.0701411972797414 % compare with the total length )
+----------------------------------------------------
+Percentage  2.5  reapet N.  36  Times(  0.10978622182916044 % compare with the total length )
+----------------------------------------------------
+Percentage  5.0  reapet N.  54  Times(  0.16467933274374066 % compare with the total length )
+----------------------------------------------------
+Percentage  7.5  reapet N.  108  Times(  0.32935866548748133 % compare with the total length )
+----------------------------------------------------
+Percentage  10.0  reapet N.  121  Times(  0.36900369003690037 % compare with the total length )
+----------------------------------------------------
+Percentage  12.5  reapet N.  122  Times(  0.3720533073099326 % compare with the total length )
+----------------------------------------------------
+Percentage  15.0  reapet N.  169  Times(  0.5153853191424477 % compare with the total length )
+----------------------------------------------------
+Percentage  17.5  reapet N.  240  Times(  0.7319081455277363 % compare with the total length )
+----------------------------------------------------
+Percentage  20.0  reapet N.  309  Times(  0.9423317373669604 % compare with the total length )
+----------------------------------------------------
+Percentage  22.5  reapet N.  417  Times(  1.2716904028544418 % compare with the total length )
+----------------------------------------------------
+Percentage  25.0  reapet N.  477  Times(  1.4546674392363759 % compare with the total length )
+----------------------------------------------------
+Percentage  27.5  reapet N.  629  Times(  1.9182092647372755 % compare with the total length )
+----------------------------------------------------
+Percentage  30.0  reapet N.  810  Times(  2.47018999115611 % compare with the total length )
+----------------------------------------------------
+Percentage  32.5  reapet N.  1010  Times(  3.080113445762557 % compare with the total length )
+----------------------------------------------------
+Percentage  35.0  reapet N.  1159  Times(  3.5345064194443596 % compare with the total length )
+----------------------------------------------------
+Percentage  37.5  reapet N.  1336  Times(  4.074288676771065 % compare with the total length )
+----------------------------------------------------
+Percentage  40.0  reapet N.  1582  Times(  4.824494525936995 % compare with the total length )
+----------------------------------------------------
+Percentage  42.5  reapet N.  1863  Times(  5.681436979659053 % compare with the total length )
+----------------------------------------------------
+Percentage  45.0  reapet N.  2016  Times(  6.148028422432985 % compare with the total length )
+----------------------------------------------------
+Percentage  47.5  reapet N.  1929  Times(  5.88271171967918 % compare with the total length )
+----------------------------------------------------
+Percentage  50.0  reapet N.  2163  Times(  6.5963221615687235 % compare with the total length )
+----------------------------------------------------
+Percentage  52.5  reapet N.  2167  Times(  6.608520630660852 % compare with the total length )
+----------------------------------------------------
+Percentage  55.0  reapet N.  2177  Times(  6.639016803391175 % compare with the total length )
+----------------------------------------------------
+Percentage  57.5  reapet N.  2033  Times(  6.199871916074533 % compare with the total length )
+----------------------------------------------------
+Percentage  60.0  reapet N.  1881  Times(  5.736330090573633 % compare with the total length )
+----------------------------------------------------
+Percentage  62.5  reapet N.  1774  Times(  5.410021042359184 % compare with the total length )
+----------------------------------------------------
+Percentage  65.0  reapet N.  1484  Times(  4.525632033179836 % compare with the total length )
+----------------------------------------------------
+Percentage  67.5  reapet N.  1267  Times(  3.863865084931841 % compare with the total length )
+----------------------------------------------------
+Percentage  70.0  reapet N.  1048  Times(  3.1959989021377817 % compare with the total length )
+----------------------------------------------------
+Percentage  72.5  reapet N.  808  Times(  2.4640907566100454 % compare with the total length )
+----------------------------------------------------
+Percentage  75.0  reapet N.  570  Times(  1.7382818456283737 % compare with the total length )
+----------------------------------------------------
+Percentage  77.5  reapet N.  389  Times(  1.1863011192095392 % compare with the total length )
+----------------------------------------------------
+Percentage  80.0  reapet N.  247  Times(  0.7532554664389619 % compare with the total length )
+----------------------------------------------------
+Percentage  82.5  reapet N.  133  Times(  0.4055990973132872 % compare with the total length )
+----------------------------------------------------
+Percentage  85.0  reapet N.  76  Times(  0.2317709127504498 % compare with the total length )
+----------------------------------------------------
+Percentage  87.5  reapet N.  36  Times(  0.10978622182916044 % compare with the total length )
+----------------------------------------------------
+Percentage  90.0  reapet N.  36  Times(  0.10978622182916044 % compare with the total length )
+----------------------------------------------------
+Percentage  92.5  reapet N.  40  Times(  0.12198469092128938 % compare with the total length )
+----------------------------------------------------
+Percentage  95.0  reapet N.  33  Times(  0.10063737001006373 % compare with the total length )
+----------------------------------------------------
+Percentage  97.5  reapet N.  16  Times(  0.04879387636851575 % compare with the total length )
+----------------------------------------------------
+Percentage  100.0  reapet N.  3  Times(  0.009148851819096703 % compare with the total length )
+----------------------------------------------------
+Percentage:  50.3004635418255 %
+Percentage with same rank:  3.7533164587844228 %
+------------------------------------------------------------------------------------------------------------------------

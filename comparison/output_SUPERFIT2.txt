@@ -1,0 +1,112 @@
+For ALS :  60_50
+The precision p@5_users is :  0.057247386305935656
+The precision p@10_users is :  0.08206906020457198
+The precision mean_p@5_users is :  0.03178203193389846
+The precision mean_p@10_users is :  0.03507757108675435
+The ndcg@5_users is :  0.04911217704613447
+The ndcg@10_users  is :  0.06091968826592202
+For BPR :  60_50
+The precision p@5_users is :  0.01994609866288229
+The precision p@10_users is :  0.02962174778609185
+The precision mean_p@5_users is :  0.008930331261709772
+The precision mean_p@10_users is :  0.009436949985340993
+The ndcg@5_users is :  0.014890098389440286
+The ndcg@10_users  is :  0.018136803324190372
+For ALS :  60_100
+The precision p@5_users is :  0.057729113231866885
+The precision p@10_users is :  0.08319031601107527
+The precision mean_p@5_users is :  0.032385912167916725
+The precision mean_p@10_users is :  0.0357495199608936
+The ndcg@5_users is :  0.04988777465485347
+The ndcg@10_users  is :  0.06195639218540509
+For BPR :  60_100
+The precision p@5_users is :  0.03193719322457589
+The precision p@10_users is :  0.0464634676552024
+The precision mean_p@5_users is :  0.01727303245279429
+The precision mean_p@10_users is :  0.01875262938117088
+The ndcg@5_users is :  0.027130420720990797
+The ndcg@10_users  is :  0.0333490008251743
+For ALS :  120_50
+The precision p@5_users is :  0.06887393076151914
+The precision p@10_users is :  0.09581016452712753
+The precision mean_p@5_users is :  0.04044776577582928
+The precision mean_p@10_users is :  0.04421072811948636
+The ndcg@5_users is :  0.060851777295488255
+The ndcg@10_users  is :  0.07391376538176204
+For BPR :  120_50
+The precision p@5_users is :  0.017550483679872927
+The precision p@10_users is :  0.02631518729548523
+The precision mean_p@5_users is :  0.007407777104401088
+The precision mean_p@10_users is :  0.007757566861466247
+The ndcg@5_users is :  0.01265601873423145
+The ndcg@10_users  is :  0.01541339112677039
+For ALS :  120_100
+The precision p@5_users is :  0.06899110758134024
+The precision p@10_users is :  0.09621061302945012
+The precision mean_p@5_users is :  0.04020666722121252
+The precision mean_p@10_users is :  0.04400164185187859
+The ndcg@5_users is :  0.060543435257971935
+The ndcg@10_users  is :  0.07369586477456809
+For BPR :  120_100
+The precision p@5_users is :  0.03240590050386032
+The precision p@10_users is :  0.04639481934051853
+The precision mean_p@5_users is :  0.01656259036120715
+The precision mean_p@10_users is :  0.01813850330956498
+The ndcg@5_users is :  0.02652095362430219
+The ndcg@10_users  is :  0.03284917672349753
+For ALS :  60_50
+The precision p@5_items is :  0.03472339760698895
+The precision p@10_items is :  0.05608567309672548
+The precision mean_p@5_items is :  0.01759860016874024
+The precision mean_p@10_items is :  0.02087223415159676
+The ndcg@5_items  is :  0.0285080597958539
+The ndcg@10_items  is :  0.039094185391787564
+For BPR :  60_50
+The precision p@5_items is :  0.02327912820446053
+The precision p@10_items is :  0.03339740509370495
+The precision mean_p@5_items is :  0.01272963134607993
+The precision mean_p@10_items is :  0.014024461036168813
+The ndcg@5_items  is :  0.01990334403214442
+The ndcg@10_items  is :  0.024740045752644848
+For ALS :  60_100
+The precision p@5_items is :  0.03555665499238351
+The precision p@10_items is :  0.057161163360106175
+The precision mean_p@5_items is :  0.01809833477911262
+The precision mean_p@10_items is :  0.02144073979045047
+The ndcg@5_items  is :  0.029208308884221188
+The ndcg@10_items  is :  0.040030094912437114
+For BPR :  60_100
+The precision p@5_items is :  0.031715859231580455
+The precision p@10_items is :  0.04172673394201506
+The precision mean_p@5_items is :  0.019733441865807885
+The precision mean_p@10_items is :  0.02099789480870241
+The ndcg@5_items  is :  0.029436231070546322
+The ndcg@10_items  is :  0.03450695766237094
+For ALS :  120_50
+The precision p@5_items is :  0.03515304594633302
+The precision p@10_items is :  0.05634882496968033
+The precision mean_p@5_items is :  0.018552160944945488
+The precision mean_p@10_items is :  0.021746482437744564
+The ndcg@5_items  is :  0.029575487085566805
+The ndcg@10_items  is :  0.040017227950092486
+For BPR :  120_50
+The precision p@5_items is :  0.02340932467092843
+The precision p@10_items is :  0.03272236333264685
+The precision mean_p@5_items is :  0.013049376334375046
+The precision mean_p@10_items is :  0.01414677193739159
+The ndcg@5_items  is :  0.02034365167995172
+The ndcg@10_items  is :  0.024602797931569463
+For ALS :  120_100
+The precision p@5_items is :  0.03775697527569102
+The precision p@10_items is :  0.06123429669801606
+The precision mean_p@5_items is :  0.01985687775044665
+The precision mean_p@10_items is :  0.023490065990958313
+The ndcg@5_items  is :  0.03168878350739897
+The ndcg@10_items  is :  0.043368063216109254
+For BPR :  120_100
+The precision p@5_items is :  0.031273191245589596
+The precision p@10_items is :  0.04211574105855701
+The precision mean_p@5_items is :  0.019462922692397567
+The precision mean_p@10_items is :  0.020830710570735465
+The ndcg@5_items  is :  0.029119826221543483
+The ndcg@10_items  is :  0.03453136084082883
