@@ -1,0 +1,1 @@
+# RS_Palazzetti_Ricci
