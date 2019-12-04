@@ -1,3 +1,14 @@
+# -----------------------------------------------------------
+# Consumption_rate.py
+#
+# Dato in input un dataset ne restituisce una versione modificata dove
+# la colonna della quantity viene sostituita con la colonna
+# del consumption rate ratio
+#
+# Prototipo di chiamata del metodo:
+# apply cons rate("nome_dataset.csv")
+# -----------------------------------------------------------
+
 import pandas as pd
 import numpy as np
 
