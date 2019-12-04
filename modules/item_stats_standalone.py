@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# Dato un dataset ed una lista di oggetti restituisce informazioni su di essi.
+#
+# Prototipo di chiamata del programma:
+# python item_stats_standalone.py -db nome_dataset.csv -i id degli oggetti
+# -----------------------------------------------------------
+
 import pandas as pd
 import math
 import argparse
