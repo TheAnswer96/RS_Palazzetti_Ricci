@@ -5,7 +5,7 @@
 # se omesso assume il valore di default 10.
 #
 # Esempio di chiamata del programma:
-# python graphs standalone.py -db nome_dataset.csv -n num_zoom
+# python graphs_standalone.py -db nome_dataset.csv -n num_zoom
 # -----------------------------------------------------------
 
 import pandas as pd
