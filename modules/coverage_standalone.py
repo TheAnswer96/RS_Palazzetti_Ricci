@@ -1,3 +1,11 @@
+# -----------------------------------------------------------
+# Dato un dataset ed il numero di raccomandazioni da generare per ogni utente
+# restituisce la coverage del modello allenato utilizzando tale dataset.
+#
+# Prototipo di chiamata del programma:
+# python coverage standalone.py -db nome_dataset.csv -n numero_raccomandazioni
+# -----------------------------------------------------------
+
 import pandas as pd
 import scipy.sparse as sparse
 import implicit
