@@ -2,7 +2,7 @@
 # Dato un dataset ed una lista di oggetti restituisce la diversity di questa lista.
 #
 # Prototipo di chiamata del metodo:
-# calculate_diversity(nome_database.csv, [lista, di, oggetti])
+# calculate_diversity("nome_database.csv", [lista, di, oggetti])
 # -----------------------------------------------------------
 
 import pandas as pd
