@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# Dato un dataset ed una lista di oggetti restituisce informazioni su di essi.
+#
+# Prototipo di chiamata del metodo:
+# print_item_stats("nome_dataset.csv", [lista, di, id, oggetti])
+# -----------------------------------------------------------
+
 import pandas as pd
 import math
 import scipy.stats as sp
