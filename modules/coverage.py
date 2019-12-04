@@ -1,12 +1,16 @@
+# -----------------------------------------------------------
+# Dato un dataset ed il numero di raccomandazioni da generare per ogni utente
+# restituisce la coverage del modello allenato utilizzando tale dataset.
+#
+# Prototipo di chiamata del metodo:
+# calculate_coverage(nome_dataset.csv, num_raccomandazioni)
+# -----------------------------------------------------------
+
 import pandas as pd
 import scipy.sparse as sparse
 import implicit
 import numpy as np
 import os
-
-#Prototipo di chiamata del metodo:
-#calculate_coverage((path database), (numero di raccomandazioni per utente))
-#Esempio: calculate_coverage(db_1.csv, 10)
 
 def check(db,rank):
 
