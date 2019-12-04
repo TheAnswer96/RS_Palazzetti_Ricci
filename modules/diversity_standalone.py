@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# Dato un dataset ed una lista di oggetti restituisce la diversity di questa lista.
+#
+# Prototipo di chiamata del programma:
+# python diversity_standalone.py -db nome_dataset.csv -i id degli oggetti
+# -----------------------------------------------------------
+
 import pandas as pd
 import scipy.sparse as sparse
 import implicit
@@ -6,10 +13,6 @@ import numpy as np
 import os
 import scipy.special
 from pathlib import Path
-
-#Prototipo di chiamata del programma:
-#python diversity_standalone.py -db (nome database) -i (oggetti sul quale calcolare la diversity)
-#Esempio: python diversity_standalone.py -db db_1.csv -i 000001 000003 000005 0001088
 
 def check(db,items_list):
 	if db is None or items_list is None:
