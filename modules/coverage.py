@@ -3,7 +3,7 @@
 # restituisce la coverage del modello allenato utilizzando tale dataset.
 #
 # Prototipo di chiamata del metodo:
-# calculate_coverage(nome_dataset.csv, num_raccomandazioni)
+# calculate_coverage("nome_dataset.csv", num_raccomandazioni)
 # -----------------------------------------------------------
 
 import pandas as pd
