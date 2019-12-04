@@ -1,3 +1,13 @@
+# -----------------------------------------------------------
+# Dato un dataset ed un intero n (opzionale) stampa dei grafici informativi.
+#
+# Il numero di righe da prendere in considerazione per lo zoom (n)
+# se omesso assume il valore di default 10.
+#
+# Esempio di chiamata del programma:
+# python graphs standalone.py -db nome_dataset.csv -n num_zoom
+# -----------------------------------------------------------
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
