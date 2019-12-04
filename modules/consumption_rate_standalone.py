@@ -1,3 +1,13 @@
+# -----------------------------------------------------------
+# Consumption_rate.py
+#
+# Dato in input un dataset stampa a schermo un dataset modificato
+# con in aggiunta le colonne inerenti il calcolo del consumption_rate
+#
+# Prototipo di chiamata del metodo:
+# python consumption_rate_standalone.py -db nome_dataset.csv
+# -----------------------------------------------------------
+
 import pandas as pd
 import numpy as np
 import argparse
