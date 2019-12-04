@@ -15,10 +15,6 @@ import matplotlib.pyplot as plt
 #Nasconde il warning 'A value is trying to be set on a copy of a slice from a DataFrame.'
 pd.set_option('mode.chained_assignment', None)
 
-#Prototipo di chiamata del metodo:
-#print_graphs((path database), [numero di righe sul quale effettuare lo zoom]) (il numero delle righe è opzionale, 10 di default)
-#Esempio: print_graphs(db1.csv, 50)
-
 def check(db,nrows):
 
 	if db is None:
