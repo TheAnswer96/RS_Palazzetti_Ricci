@@ -6,7 +6,7 @@
 # Di default il parametro v è impostato a False, quindi può essere omesso se non necessario.
 #
 # Prototipo di chiamata del metodo:
-# print cat("nome_dataset.csv", v=True)
+# print_cat("nome_dataset.csv", v=True)
 # -----------------------------------------------------------
 
 import pandas as pd
