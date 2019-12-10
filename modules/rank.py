@@ -1,3 +1,12 @@
+# -----------------------------------------------------------
+# Dato un dataset, un oggetto ed una lista di utenti restituisce un dataframe
+# contenente la posizione di tale oggetto nella lista di raccomandazioni degli utenti,
+# insieme alla media e deviazione standard dei rank.
+#
+# Prototipo di chiamata del metodo:
+# print_rank("nome_dataset.csv", id_oggetto, [lista, di, utenti])
+# -----------------------------------------------------------
+
 import pandas as pd
 import scipy.sparse as sparse
 import implicit
