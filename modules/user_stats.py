@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# Dato un dataset ed una lista di utenti restituisce informazioni su di essi.
+#
+# Prototipo di chiamata del metodo:
+# print_user_stats("nome_dataset.csv", [lista, di, id, utenti])
+# -----------------------------------------------------------
+
 import pandas as pd
 import math
 import scipy.stats as sp
