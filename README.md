@@ -1,3 +1,3 @@
 # RS_Palazzetti_Ricci
 
-cartella che contiene i file che calcolano l'intersezione delle classifiche dedotte dal modello con la quantity e con il consumption rate.
+comparison: cartella che contiene i file che calcolano l'intersezione delle classifiche ricavate utilizzando il modello che utilizza la quantity e quello con il consumption rate.
