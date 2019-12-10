@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# Dato un dataset restituisce informazioni generiche su di esso
+#
+# Prototipo di chiamata del metodo:
+# print_stats("nome_dataset.csv")
+# -----------------------------------------------------------
+
 import pandas as pd
 import math
 import scipy.stats as sp
