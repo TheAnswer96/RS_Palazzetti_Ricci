@@ -6,6 +6,6 @@ comparison: cartella che contiene i file che calcolano l'intersezione delle clas
 
 item_user: file inerenti il sistema che, dato un oggetto, trova l'utente a cui raccomandarlo (item_user).
 
-modules: collezione di programmi che eseguono vari compiti
+modules: collezione di programmi che eseguono vari compiti.
 
 stringhe: contiene il file che esegue operazioni sul nome dei prodotti (taglio oggetti nelle raccomandazioni con nomi troppo simili, ignorare oggetti che differiscono solo per il dosaggio, ecc.).
