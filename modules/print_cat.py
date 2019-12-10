@@ -1,3 +1,14 @@
+# -----------------------------------------------------------
+# Dato un dataset restituisce informazioni inerenti le categorie, in versione normale o verbose.
+# Le informazioni sono ad esempio il numero degli oggetti che hanno quella classe, il numero cumulativo di prodotti ecc.
+# Il parametro v è opzionale, se impostato a True restituisce anche informazioni su ogni singolo
+# oggetto facente parte di una categoria.
+# Di default il parametro v è impostato a False, quindi può essere omesso se non necessario.
+#
+# Prototipo di chiamata del metodo:
+# print cat("nome_dataset.csv", v=True)
+# -----------------------------------------------------------
+
 import pandas as pd
 import numpy as np
 import time
