@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# Dato un dataset ed una lista di utenti restituisce informazioni su di essi.
+#
+# Prototipo di chiamata del metodo:
+# python user_stats_standalone.py -db nome_dataset.csv -u lista di utenti
+# -----------------------------------------------------------
+
 import pandas as pd
 import math
 import argparse
