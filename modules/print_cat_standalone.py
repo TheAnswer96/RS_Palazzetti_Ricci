@@ -1,3 +1,13 @@
+# -----------------------------------------------------------
+# Dato un dataset restituisce informazioni inerenti le categorie, in versione normale o verbose.
+# Le informazioni sono ad esempio il numero degli oggetti che hanno quella classe, il numero cumulativo di prodotti ecc.
+# Il flag v è opzionale, se presente restituisce anche informazioni su ogni singolo
+# oggetto facente parte di una categoria.
+#
+# Prototipo di chiamata del programma:
+# python print_cat_standalone.py -db nome_dataset.csv -v
+# -----------------------------------------------------------
+
 import pandas as pd
 import argparse
 import numpy as np
